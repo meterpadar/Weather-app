@@ -1,6 +1,6 @@
 # Weather app
 
-Web app where you can find some city in the world and app show you what weather is there now. You can alse save some cities to your favorite list.
+Web app where you can find some city in the world and app show you what weather is there now. You can alse save some cities to your favorite list. App was created by Javascript, React and Redux.
 
 ## Available Scripts
 
